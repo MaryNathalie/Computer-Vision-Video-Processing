@@ -1,1 +1,16 @@
-# Computer-Vision-Video-Processing
+# Video-Processing-MATLAB
+![Slide2](https://user-images.githubusercontent.com/70312044/98110083-8ac78480-1ed9-11eb-83a5-2db4927b28c0.PNG)
+![Slide3](https://user-images.githubusercontent.com/70312044/98110088-8c914800-1ed9-11eb-859a-db26379cae9f.PNG)
+![Slide4](https://user-images.githubusercontent.com/70312044/98110090-8d29de80-1ed9-11eb-99f5-30cf8f17b8bc.PNG)
+![Slide5](https://user-images.githubusercontent.com/70312044/98110092-8dc27500-1ed9-11eb-9144-791df1c79274.PNG)
+![Slide6](https://user-images.githubusercontent.com/70312044/98110093-8dc27500-1ed9-11eb-8eaf-37b1f2a4ad4f.PNG)
+![Slide7](https://user-images.githubusercontent.com/70312044/98110096-8e5b0b80-1ed9-11eb-90a0-413279d19c4e.PNG)
+![Slide8](https://user-images.githubusercontent.com/70312044/98110098-8ef3a200-1ed9-11eb-87ab-ebabb067373a.PNG)
+![Slide9](https://user-images.githubusercontent.com/70312044/98110100-8ef3a200-1ed9-11eb-9dc4-65ce25709b78.PNG)
+![Slide10](https://user-images.githubusercontent.com/70312044/98110101-8f8c3880-1ed9-11eb-838e-6ce5398dce73.PNG)
+![Slide11](https://user-images.githubusercontent.com/70312044/98110102-9024cf00-1ed9-11eb-81db-f45b49d6642c.PNG)
+![Slide12](https://user-images.githubusercontent.com/70312044/98110104-9024cf00-1ed9-11eb-913e-b857dcee4897.PNG)
+![Slide13](https://user-images.githubusercontent.com/70312044/98110107-90bd6580-1ed9-11eb-8b28-af4eeb7262e3.PNG)
+![Slide14](https://user-images.githubusercontent.com/70312044/98110110-9155fc00-1ed9-11eb-9658-864ad162c483.PNG)
+![Slide15](https://user-images.githubusercontent.com/70312044/98110113-9155fc00-1ed9-11eb-807e-a23db5a6c368.PNG)
+![Slide16](https://user-images.githubusercontent.com/70312044/98110116-91ee9280-1ed9-11eb-850b-f16cf0b05a3b.PNG)
